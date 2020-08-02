@@ -6,7 +6,7 @@ def snake_it_up(string)
     # 10 * "s" + string #original code
     10.times "s" + string #my code not working
     binding.pry
-  el#se
+  else
     string
   end
 end
